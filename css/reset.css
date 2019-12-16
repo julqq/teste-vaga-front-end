@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+    
+}
+body{
+    background-color: #ffffff;
+}
+
+
+.rale{
+
+    font-family: 'Raleway', sans-serif;
+}
+
+::-webkit-input-placeholder{
+
+
+
+    color: #d2d2d2;
+    font-weight: bold;
+    font-size: 9pt;
+  }
+
+.orange{
+    color: #ee8040;
+}
+
+.green{
+    color: #69d388;
+}
+input[type=radio] {
+    display: none;
+}

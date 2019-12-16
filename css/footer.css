@@ -1,0 +1,31 @@
+footer{
+    background-color:#999999;
+    display: flex;
+    
+    justify-content: space-around;
+    
+    align-items: center;
+    font-size: 8pt;
+
+}
+footer > .footercontent{
+    padding:30px;
+    width: 90%;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer >.footercontent>div{
+    width: 80%;
+    color: #ffffff;
+    
+}
+footer >.footercontent >div >p >span{
+    color:#51c987;
+}
+footer >.footercontent >div >p
+{
+    margin-top: 10px;
+}
